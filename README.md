@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandrashekar-18
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML,CSS,PHP
+- 🌱 I’m currently learning HTML,CSS,PHP,Python
 - 📫 How to reach me - sunilchandu18@gmail.com
 
 <!---
