@@ -31,8 +31,8 @@ Hey! I'm Chandrashekar, a passionate game developer who loves bringing ideas to 
 
 ### 📢 Let's Connect!
 - 📧 **Email:** [sunilchandu18@gmail.com](mailto:sunilchandu18@gmail.com)
+- 🌐 **LinkedIn:** [/chandrashekar2000](https://www.linkedin.com/in/chandrashekar2000/)
 - 🔗 **Portfolio:** _Coming Soon_
-- 🌐 **LinkedIn:** _Coming Soon_
 
 ---
 
