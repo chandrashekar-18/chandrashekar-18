@@ -1,52 +1,41 @@
-Hi there! I'm Chandrashekar 👋
+# Hi there! I'm Chandrashekar 👋
 
-Game Developer | Unity Enthusiast | Passionate Coder
+**Game Developer | Unity Enthusiast | Passionate Coder**
 
-✨ About Me:
+---
 
+### ✨ About Me:
 Hey! I'm Chandrashekar, a passionate game developer who loves bringing ideas to life using Unity. With expertise in game mechanics, UI/UX, and performance optimization, I strive to create immersive and engaging gaming experiences.
 
-🌟 Proficient in Unity 2023
+- 🌟 Proficient in **Unity 2023**
+- 💪 Strong in **C# and Game Physics**
+- 🌍 Exploring **AI and Procedural Generation**
+- 🎮 Love building **Android & iOS Games**
+- 🚀 Always learning and experimenting with new tech
 
-💪 Strong in C# and Game Physics
+---
 
-🌍 Exploring AI and Procedural Generation
+### 🔧 Tech Stack:
+- **Game Engine:** Unity (C#)
+- **Mobile Development:** Android, iOS
+- **Version Control:** Git, GitHub
+- **Tools:** Android Studio, Visual Studio, Rider
+- **Other Skills:** Shaders, UI Design, Physics Simulations
 
-🎮 Love building Android & iOS Games
+---
 
-🚀 Always learning and experimenting with new tech
+### 📈 GitHub Stats:
+![Chandrashekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
-🔧 Tech Stack:
+---
 
-Game Engine: Unity (C#)
+### 📢 Let's Connect!
+- 📧 **Email:** [sunilchandu18@gmail.com](mailto:sunilchandu18@gmail.com)
+- 🔗 **Portfolio:** _Coming Soon_
+- 🌐 **LinkedIn:** _Coming Soon_
 
-Mobile Development: Android, iOS
+---
 
-Version Control: Git, GitHub
-
-Tools: Android Studio, Visual Studio, Rider
-
-Other Skills: Shaders, UI Design, Physics Simulations
-
-📈 GitHub Stats:
-
-
-
-📢 Let's Connect!
-
-📧 Email: sunilchandu18@gmail.com
-
-🔗 Portfolio: Coming Soon
-
-🌐 LinkedIn: Coming Soon
-
-"Code, Create, Conquer!"
+_"Code, Create, Conquer!"_
 
 Thanks for stopping by! 🌟
-
-
-
-<!---
-chandrashekar-18/chandrashekar-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
