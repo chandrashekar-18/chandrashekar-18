@@ -25,7 +25,7 @@ Hey! I'm Chandrashekar, a passionate game developer who loves bringing ideas to 
 ---
 
 ### 📈 GitHub Stats:
-![Chandrashekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Chandrashekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrashekar-18&show_icons=true&theme=tokyonight)
 
 ---
 
